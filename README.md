@@ -1,5 +1,6 @@
 # AI Persona Chat
 ![Logo](public/aichat.png)
+<br/>
 AI Persona Chat is an interactive web application that lets users converse with multiple AI-powered personas, each with their own unique style, tone, and knowledge base.
 Whether you want a friendly mentor, a strict instructor, or a casual chat buddy, you can switch personas instantly and enjoy dynamic, context-aware conversations.
 
