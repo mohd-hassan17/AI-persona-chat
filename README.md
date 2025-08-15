@@ -2,7 +2,7 @@
 ![Logo](public/aichat.png)
 <br/>
 ## Live Demo
-Check out the live version here: [AI Persona Chat on Vercel]([https://ai-persona-chat-leoe.vercel.app/])
+Check out the live version here: [AI Persona Chat on Vercel](https://ai-persona-chat-leoe.vercel.app/)
 
 <br/>
 AI Persona Chat is an interactive web application that lets users converse with multiple AI-powered personas, each with their own unique style, tone, and knowledge base.
