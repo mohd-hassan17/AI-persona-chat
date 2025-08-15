@@ -15,6 +15,7 @@ Key Features
 
 ⚡ Fast & Optimized – SSR (Server-Side Rendering) for better performance and SEO.
 <br/>
+<br/>
 Tech Stack
 
 Frontend Framework: Next.js – for fast rendering, routing, and SEO-friendly pages.
